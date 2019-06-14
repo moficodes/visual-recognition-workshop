@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Visual Recognition Workshop](README.md)
 
