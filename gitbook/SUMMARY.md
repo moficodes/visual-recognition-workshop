@@ -7,5 +7,5 @@
   * [Watson Studio Setup](workshop/basics.md)
   * [Train](workshop/train.md)
   * [Test](workshop/test.md)
-* [Nest Steps](nest-steps.md)
+* [Next Steps](nest-steps.md)
 

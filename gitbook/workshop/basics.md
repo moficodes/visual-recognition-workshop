@@ -4,7 +4,7 @@
 
 In the Catalog search for `Watson Studio` . Click on `Watson Studio` 
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 #### **Step 2:**
 
@@ -18,7 +18,7 @@ Click on `Get Started`
 
 Click on `Create a project` 
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 #### Step 5: 
 

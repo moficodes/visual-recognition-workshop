@@ -10,5 +10,5 @@ Step 2:
 
 Go to the test tab. Drag and Drop a couple image from the testdata folder downloaded in the previous step.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 

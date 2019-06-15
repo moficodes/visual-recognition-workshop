@@ -9,23 +9,25 @@ We need a couple of things.
 
 Lets create those services.
 
-Step 1:
+#### Step 1:
 
 Go to catalog on IBM Cloud.[https://cloud.ibm.com/catalog](https://cloud.ibm.com/catalog) 
 
-Step 2: 
+#### Step 2: 
 
 Search for `visual recogniton` 
 
 ![](../.gitbook/assets/image.png)
 
-Step 3:
+#### Step 3:
 
 Create a visual recognition service. Select `lite` for the plan.
 
-Step 4:
+#### Step 4:
 
-Go back to the Catalog again. Search for `Object-Storage` create a object storage service.
+Go back to the Catalog again. Search for `Object-Storage` create an object storage service.
+
+![](../.gitbook/assets/image%20%284%29.png)
 
 We will use this 2 in the next step.
 
