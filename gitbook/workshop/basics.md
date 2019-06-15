@@ -4,7 +4,7 @@
 
 In the Catalog search for `Watson Studio` . Click on `Watson Studio` 
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 #### **Step 2:**
 
@@ -18,13 +18,13 @@ Click on `Get Started`
 
 Click on `Create a project` 
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 #### Step 5: 
 
 Select `Standard` . Give the project a name.. In the bottom at the Define Storage. Select the storage created in the previous step.
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 #### Step 6; 
 
@@ -46,7 +46,7 @@ Click here on the prompt to select an existing service. Click on `Existing` on t
 
 You should see a page like this.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 At this step we are ready to train
 
