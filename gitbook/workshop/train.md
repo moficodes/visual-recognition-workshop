@@ -22,6 +22,8 @@ We use the `testdata` in a moment to test our model.
 
 Click on browse and select the 4 zip files
 
+![](../.gitbook/assets/screen-shot-2019-06-14-at-10.20.30-pm.png)
+
 #### Step 3: 
 
 Give the model a name. I am calling mine `flooded-region-recognizer` 
